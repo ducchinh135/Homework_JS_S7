@@ -62,6 +62,9 @@
     padding: 5px 10px;
     cursor: pointer;
     margin-left: 20px;
+    letter-spacing: 2px;
+    border-radius: 40px;
+    background: linear-gradient(90deg,#755bea,#ff72c0);
 }
 .connect--btn:hover {
     color: white;
